@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Shubham Gore
-##MS CS-AI at University of Southern California
+## MS CS-AI at University of Southern California
 
 I am currently pursuing a Master of Science in Computer Science at the University of Southern California. My expertise spans across data analysis, machine learning, and computer vision while also having  a strong foundation in MERN stack, React, Tailwind, Node.js, MongoDB, PostgreSQL, and Prisma.
 
