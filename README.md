@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Shubham Gore
+##MS CS-AI at University of Southern California
+
+I am currently pursuing a Master of Science in Computer Science at the University of Southern California. My expertise spans across data analysis, machine learning, and computer vision while also having  a strong foundation in MERN stack, React, Tailwind, Node.js, MongoDB, PostgreSQL, and Prisma.
+
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamgore2468)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shubhamgore2468/shubhamgore2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
