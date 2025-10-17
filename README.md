@@ -1,15 +1,18 @@
-### Hi there 👋, my name is Shubham
-#### MS CS AI grad student at University of Southern California
-I am currently pursuing a Master of Science in Computer Science at the University of Southern California. My expertise spans across data analysis, machine learning, and computer vision while also having a strong foundation in MERN stack, React, Tailwind, Node.js, MongoDB, PostgreSQL, and Prisma.
+# Shubham Gore
 
-Skills: JS /  TS  REACT / TAILWIND / NODEJS / MONGO / SQL / MACHINE LEARNING / Computer VISION
+**M.S. CS @ USC** • Full-stack + **LLMs/RAG/AI Agents**
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning GAN's 
-- 👯 I’m looking to collaborate on Full Stack Projects and Computer Vision 
-- 📫 How to reach me: spgore@usc.edu 
+- Building practical AI systems end-to-end: **LangChain/LangGraph**, Graph-RAG, FastAPI, Next.js  
+- Recent: RL-tuned long-context gen (PPO), custom CUDA/Triton speedups, VLM (PaliGemma + SigLIP)
 
+**Tech:** JS/TS · React/Next.js · Tailwind · Node.js · MongoDB/PostgreSQL/Prisma · PyTorch · FastAPI · Neo4j · FAISS/Qdrant · Docker · GitHub Actions
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shubhamgore2468) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-gore-b36612118//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/goreshubham1821)  
+## 🔭 What I’m working on (LLMs & AI Agents)
+- **Hybrid Graph-RAG for Recruiting** — Neo4j + vector search (Qdrant/FAISS), LangChain/LangGraph orchestration, FastAPI backend, Next.js frontend.  
+- **WiM: RL-Enhanced Long-Context Generation** — PPO loop for margin drafting, custom CUDA/Triton kernels for speedups, metrics with BERTScore.  
+- **Vision-Language Stack (PaliGemma + SigLIP)** — custom tokenizer/processor alignment, image-token handling, KV-cache generation, vocab resize utilities.  
+- **Agentic HR Planner** — tool-using agent (search, checklist, Notion API), file-backed memory, JSON-structured outputs.
 
+**Skills:** `JS` `TS` `REACT` `TAILWIND` `NODEJS` `MONGO` `SQL` `ML` `CV` `LLMs` `RAG` `AI AGENTS` `LANGCHAIN` `LANGGRAPH` `NEO4J` `QDRANT/FAISS` `FASTAPI` `CUDA` `TRITON`
 
+**Links:** [Portfolio](https://shubhamgore.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shubhampgore) 
