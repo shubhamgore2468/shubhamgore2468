@@ -16,3 +16,9 @@
 **Skills:** `JS` `TS` `REACT` `TAILWIND` `NODEJS` `MONGO` `SQL` `ML` `CV` `LLMs` `RAG` `AI AGENTS` `LANGCHAIN` `LANGGRAPH` `NEO4J` `QDRANT/FAISS` `FASTAPI` `CUDA` `TRITON`
 
 **Links:** [Portfolio](https://shubhamgore.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shubhampgore) 
+
+<h2> Github Statistics 📈 </h2>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=shubhamgore2468&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgore2468&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
