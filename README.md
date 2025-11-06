@@ -1,4 +1,5 @@
 # Shubham Gore
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamgore2468&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgore2468" /> </p>
 
 **M.S. CS @ USC** • Full-stack + **LLMs/RAG/AI Agents**
 
